@@ -1,1 +1,8 @@
 let's get start the first project
+
+
+after open the Spring Tool Suit,, 
+
+simply start with Maven Project 
+file-New-other-search ofor Maven - next-next-type select, web- give gourp id, name, click finish, 
+
